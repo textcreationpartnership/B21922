@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament concerning a late proclamation of His Majesties for the keeping of Trinity terme at Oxford, which in regard of the many inconveniences thereof, it is by them ordered to be held only in</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21922</idno><idno type="EEBO-CITATION">12205864</idno>
+  <idno type="VID">197290</idno>
+  <idno type="EEBO-PROQUEST">2240969707</idno>
+  
+            <idno type="STC">Wing E1358</idno>
+            <idno type="OCLC">12205864</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197290)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E104, no 28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament concerning a late proclamation of His Majesties for the keeping of Trinity terme at Oxford, which in regard of the many inconveniences thereof, it is by them ordered to be held only in</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iune 2, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197290:1"/>
+            <p> A DECLARATION OF The LORDS and COMMONS assembled in Parliament, Concerning a late Proclamation of His Majesties, for the keeping of <hi>Trinity</hi> Terme at <hi>Oxford,</hi> which in regard of the many inconveniences thereof, it is by them ordered to be held only in the usuall places: Also that no Order, or proceedings, given or had elsewhere, shall bind any Person without his owne voluntary consent: And further, that if any shall disobey this Order, they will proceed against them as willfull con<g ref="char:EOLhyphen"/>temners of the authority of Parliament, and disturbers of the Peace of the KINGDOME.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis, 30. Maii, 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords and Commons assembled in Par<g ref="char:EOLhyphen"/>liament, that this Declaration shall be forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Joh. Browne Cler. Parliam.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Wright</hi> in the Old-Bayley.</p>
+            <p>
+               <hi>Iune</hi> 2. 1643.</p>
+            <pb facs="tcp:197290:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:197290:2"/>
+            <head>A Declaration of the Lords and Commons in Parliament.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Martis</hi> 30. <hi>Maii,</hi> 1643:</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in Parliament, having ta<g ref="char:EOLhyphen"/>ken into their serious con<g ref="char:EOLhyphen"/>sideration a Proclamation dated at <hi>Oxford</hi> the nine<g ref="char:EOLhyphen"/>teenth of this instant <hi>May,</hi> for the hol<g ref="char:EOLhyphen"/>ding and continuing of the Court of Chancery, and all proceedings therein, the receipt of his Maiesties Exchequer, and of the first Fruits and Tenths, the Court of the Dutchy of <hi>Lancaster,</hi> Court of Wards and Liveries, and Court of Requests, at the City of <hi>Oxford,</hi> for the whole Terme of <hi>Trinity</hi> then next ensu<g ref="char:EOLhyphen"/>ing,
+<pb n="2" facs="tcp:197290:3"/> upon and from the second day of <hi>Iune</hi> next comming, untill and upon the 21. day of <hi>Iune</hi> aforesaid: And for adiourning the Courts of Kings bench common Pleas and Exchequer, from the said second day of <hi>Iune</hi> untill the Re<g ref="char:EOLhyphen"/>turne of <hi>Quindena Trinitatis</hi> next ensuing, doe finde that it will much tend to the preiudice of the common-wealth to have the said Courts and Receipts held and continued at <hi>Oxford,</hi> where great part of an Army raised against the Parliament and the authority thereof, now resides: And the said Lords and Commons ap<g ref="char:EOLhyphen"/>prehending and foreseeing the great in<g ref="char:EOLhyphen"/>conveniences and mischiefes that neces<g ref="char:EOLhyphen"/>sarily must happen to many of his Ma<g ref="char:EOLhyphen"/>iesties most faithfull and best subiects, in case those Courts and Receipts be held at <hi>Oxford,</hi> where such of them as have occasion to attend cannot with any safety of their persons or estates repair to his Maiesty, having in effect decla<g ref="char:EOLhyphen"/>red all persons that have contributed any thing in ayde or defense of the Par<g ref="char:EOLhyphen"/>liament,
+<pb n="3" facs="tcp:197290:3"/> and the priviledges thereof, to be guilty of high Treason, and in pur<g ref="char:EOLhyphen"/>suance thereof, by the force and power of the Army there remaining, have sei<g ref="char:EOLhyphen"/>zed upon many of their persons, where they are detained prisoners, and some proceeded against as Traytors, having nothing layd to their charge, but their assisting the Parliament, and opposing that Army raised to destroy it and the Kingdome. And finding that divers, both Iudges and others, (whose atten<g ref="char:EOLhyphen"/>dance upon the said Courts and Re<g ref="char:EOLhyphen"/>ceipts will be necessary) are members or assistants to one or both Houses of Par<g ref="char:EOLhyphen"/>liament, whose presence at this time can<g ref="char:EOLhyphen"/>not be spared; and that if the Records necessary to be used in the said Courts should be removed from the usuall pla<g ref="char:EOLhyphen"/>ces to <hi>Oxford,</hi> in a time when two Ar<g ref="char:EOLhyphen"/>mies are residing neare thereabouts, it would endanger the miscarriage of them, which might ruine many of his Maiesties subiects, whose estates de<g ref="char:EOLhyphen"/>pend thereupon; and that so farre a di<g ref="char:EOLhyphen"/>stance
+<pb n="4" facs="tcp:197290:4"/> between the said Courts of Law and Equity, which have necessary de<g ref="char:EOLhyphen"/>pendance one upon another, would prove exceeding preiudiciall to many: and finding as great cause to take care for preventing the said mischiefes and in<g ref="char:EOLhyphen"/>conveniences as was in Easter Terme last, in that the said Army is still conti<g ref="char:EOLhyphen"/>nuing: The said Lords and Commons doe therefore declare and order, that no Iudge, Minister, or other person belon<g ref="char:EOLhyphen"/>ing to any of the said Courts or Receipts shall repaire to the said City of <hi>Oxford,</hi> or doe or execute any thing belonging to the said Offices and Imployments, but in the places usuall of the doing and executing thereof: and the said Lords and Commons doe enioyne the said se<g ref="char:EOLhyphen"/>verall Iudges Officers, and Mini<g ref="char:EOLhyphen"/>sters, to attend the execution of the said Offices at the usuall times and places for the execution thereof, and not else<g ref="char:EOLhyphen"/>where; and that no member of, or assi<g ref="char:EOLhyphen"/>stant to either of the two Houses of Parliament, that have any place, Of<g ref="char:EOLhyphen"/>fice,
+<pb n="5" facs="tcp:197290:4"/> or imployment, about any of the said Courts or Receipts, shall presume to depart from their attendance upon the Parliament▪ without the speciall leave of that House whereof they are members or assistants; and that those departed doe teturne forthwith. And doe further order, that no person shall remove or cause to be removed any re<g ref="char:EOLhyphen"/>cords or writings of any the said Courts or Receipts, to or towards the said City of <hi>Oxford:</hi> And the said Lords and Com<g ref="char:EOLhyphen"/>mons do declare, that if any person shall disobey this Order, they will proceed against them as wilfull contemners of the authority of Parliament, and distur<g ref="char:EOLhyphen"/>bers of the peace of the Kingdome: and it is further Declared and Ordered by the said Lords and Commons, that no Iudgement, Decree, Order or Procee<g ref="char:EOLhyphen"/>dings whatsoever, that shall be given, made, or had, by, or in, any of the said Courts or receipts, out of the usuall pla<g ref="char:EOLhyphen"/>ces where the said Courts and receipts, have bin accustomed to be held and kept,
+<pb n="6" facs="tcp:197290:5"/> shall bind any person that may be con<g ref="char:EOLhyphen"/>cerned therein, without his owne vo<g ref="char:EOLhyphen"/>luntary consent: and that all Iudges, Officers, and other persons, shall be pro<g ref="char:EOLhyphen"/>tected and kept indempnified, from any dammage or inconvenience that may, or can happen to them, for yeelding obe<g ref="char:EOLhyphen"/>dience to this Ordinance, or by the not prosecution of any iust suit or action in the said Courts at <hi>Oxford,</hi> or any of them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
